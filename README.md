@@ -1,9 +1,10 @@
 # Vasudha_Annam
 Annam.AI Hackathon 2025    "Fueling Innovation in Food &amp; Sustainable Agriculture with AI"
 
-Challenge 1: Completed, Model Fine Tuned(Superfast: 5 min total time)
+Challenge 1:  (Rank 21, F1 Value: 1.0) Completed, Model Fine Tuned(Superfast: 5 min total time)
 
-Challenge 2: Approach Identified and Implemented (F1 Improvement and Model Speed up Pending)  {Complete Optimized Model: 12 pm, 27May} 
+Challenge 2: (Rank 89, F1 Value:0.5597) Approach Identified and Implemented (F1 Improvement and Model Speed up Pending)  {Complete Optimized Model: 12 pm, 27May} 
+
 
 
 Challenge 1:
