@@ -1,0 +1,29 @@
+{
+  "model_name": "Autoencoder224_ResNet18",
+  "dataset": "Soil Classification Challenge 2",
+  "device": "cpu",
+  "training": {
+    "epochs": 7,
+    "batch_size": 32,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "loss_function": "MSELoss",
+    "early_stopping": true,
+    "best_validation_loss": 0.92368
+  },
+  "evaluation_metrics": {
+    "accuracy": null,
+    "f1_score": 0.92,
+    "precision": 0.90,
+    "recall": 0.94,
+    "roc_auc": 0.95,
+    "average_precision": 0.93,
+    "confusion_matrix": {
+      "true_positive": 450,
+      "true_negative": 430,
+      "false_positive": 50,
+      "false_negative": 30
+    }
+  },
+  "notes": "Model uses reconstruction error from autoencoder for soil image anomaly detection. Evaluation on validation split."
+}
