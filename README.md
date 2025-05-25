@@ -1,6 +1,9 @@
 # Vasudha_Annam
 Annam.AI Hackathon 2025    "Fueling Innovation in Food &amp; Sustainable Agriculture with AI"
 
+Challenge 1: Completed, Model Fine Tuned(Superfast: 5 min total time)
+Challenge 2: Approach Identified and Implemented (F1 Improvement and Model Speed up Pending)  {Complete Optimized Model: 12 pm, 27May} 
+
 
 Challenge 1:
 # Soil Image Classification: Challenge 1
