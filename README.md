@@ -4,7 +4,7 @@ Demo Drive: https://drive.google.com/drive/folders/14xPgfnbR0Cj1haLNd5WQLC7r3ARF
 
 Challenge 1:  (Rank 17, F1 Value: 1.0) Completed, Model Fine Tuned(Superfast: 5 min total time)
 
-Challenge 2: (Rank 92, F1 Value:0.5597) Approach Identified and Implemented (F1 Improvement and Model Speed up Pending)  {Complete Optimized Model: 12 pm, 27May} 
+Challenge 2: (Rank 92, F1 Value: 0.5534) Approach Identified and Implemented (F1 Improvement and Model Speed up Pending)  {Complete Optimized Model: 12 pm, 27May} 
 
 
 
