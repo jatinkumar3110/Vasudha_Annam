@@ -1,0 +1,23 @@
+#Challenge-1
+# Core ML Frameworks
+torch>=2.0.0             # PyTorch for model building and training
+torchvision>=0.15.0      # Pretrained models and image utilities
+
+# Data Processing & Utilities
+numpy>=1.23.0            # Numerical operations and array handling
+pandas>=1.5.0            # CSV file and tabular data handling
+tqdm>=4.65.0             # Progress bars for loops
+
+# Image Processing
+opencv-python>=4.7.0     # For reading images from disk
+Pillow>=9.4.0            # PIL backend for torchvision transforms
+
+# Evaluation & Metrics
+scikit-learn>=1.2.0      # For F1 score and classification report
+
+# Visualization
+matplotlib>=3.6.0        # Plotting curves and image grids
+seaborn>=0.12.0          # Enhanced visualizations (used in plots)
+
+# Environment (Google Colab)
+google-colab             # Required for running in Colab (files, paths, mount)
